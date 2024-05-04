@@ -1,3 +1,5 @@
+# Introduction to Python
+
 ## Python fundamentals
 
 ### Part 1: Introduction to Python (30 minutes)
