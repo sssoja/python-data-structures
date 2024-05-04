@@ -1,6 +1,6 @@
 # Introduction to Python
 
-## Python fundamentals
+## Session 1: Python fundamentals
 
 ### Part 1: Introduction to Python (30 minutes)
 ### Part 2: Basic Syntax (30 minutes)
