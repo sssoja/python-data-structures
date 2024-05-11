@@ -15,6 +15,7 @@
 ### Part 4: Sets
 ### Part 5: Dictionaries
 ### Part 6: Loops with lists
+### Simple List Exercise: Favorite Foods
 
 ## Session 3: Flow Control
 
