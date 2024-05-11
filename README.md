@@ -6,6 +6,7 @@
 ### Part 2: Basic Syntax (30 minutes)
 ### Part 3: Variable Types (30 minutes)
 ### Part 4: Basic Operators (30 minutes)
+### Exercise: Extended Personal Information Summary
 
 ## Session 2: Data Structures
 
