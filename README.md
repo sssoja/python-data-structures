@@ -27,3 +27,12 @@
 ### Part 5: Combining Loops and Dictionaries
 ### Part 6: More Complex Loop Combinations
 ### Final Comprehensive Exercise (15 minutes)
+
+## Session 4: Introduction to Functions
+
+### Part 1: Defining and Calling Functions
+### Part 2: Arguments and Parameters
+### Part 3: Types of Arguments
+### Part 4: Default Values and Arbitrary Arguments
+### Part 5: Functions and Modules
+### Comprehensive Exercise - Function Module
