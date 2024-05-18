@@ -36,3 +36,10 @@
 ### Part 4: Default Values and Arbitrary Arguments
 ### Part 5: Functions and Modules
 ### Comprehensive Exercise - Function Module
+
+## Session 5: Classes, Plots & Django
+
+### Part 1: Introduction to Python Classes
+### Part 2: Introduction to Matplotlib
+### Part 3: Introduction to Django
+### Projects
