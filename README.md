@@ -43,3 +43,11 @@
 ### Part 2: Introduction to Matplotlib
 ### Part 3: Introduction to Django
 ### Projects
+
+## Session 6: Introduction to Pandas
+### Key Features of Pandas
+### Importing Pandas
+### Series and DataFrame
+### DataFrame
+### Reading Data
+### Data Manipulation
