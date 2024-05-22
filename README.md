@@ -37,17 +37,18 @@
 ### Part 5: Functions and Modules
 ### Comprehensive Exercise - Function Module
 
-## Session 5: Classes, Plots & Django
+## Session 6: Django Basics
+### Part 1: Introduction to Django
+### Part 2: Basic Routing
+### Part 3: Views
+### Part 4: Models
+### Part 5: Templates
+### Comprehensive Exercise - Create a Template
 
-### Part 1: Introduction to Python Classes
-### Part 2: Introduction to Matplotlib
-### Part 3: Introduction to Django
-### Projects
-
-## Session 6: Introduction to Pandas
-### Key Features of Pandas
-### Importing Pandas
-### Series and DataFrame
-### DataFrame
-### Reading Data
-### Data Manipulation
+## Session 7: Introduction to Pandas
+### Part 1: Key Features of Pandas
+### Part 2: Importing Pandas
+### Part 3: Series and DataFrame
+### Part 4: DataFrame
+### Part 5: Reading Data
+### Part 6: Data Manipulation
